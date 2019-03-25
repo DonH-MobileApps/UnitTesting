@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week2Day3HW</string>
+    <string name="good_morning">¡Buenos días!</string>
+    <string name="hello">hola</string>
+    <string name="tacos">tacos</string>
+    <string name="hamburgers">hamburguesas</string>
+    <string name="basketball">baloncesto</string>
+
+</resources>

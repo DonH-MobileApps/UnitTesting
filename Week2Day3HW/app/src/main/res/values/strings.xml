@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week2Day3HW</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="hello">hello</string>
+    <string name="tacos">tacos</string>
+    <string name="hamburgers">hamburgers</string>
+    <string name="basketball">basketball</string>
+</resources>

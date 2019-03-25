@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#AD3131">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvListEmployees"
+        android:layout_width="wrap_content"
+        android:layout_height="218dp"
+        android:scrollbars="vertical"
+        tools:listitem="@android:layout/activity_list_item" />
+
+    <ImageView
+        android:id="@+id/ivBatman"
+        android:layout_width="162dp"
+        android:layout_height="71dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/batman" />
+
+
+    <ImageView
+        android:id="@+id/ivCylops"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cyclops" />
+
+    <ImageView
+        android:id="@+id/ivDonatello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/donatello" />
+
+    <ImageView
+        android:id="@+id/ivJamesBond"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/jamesbond" />
+
+    <ImageView
+        android:id="@+id/ivLiuKang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/liukang" />
+
+    <ImageView
+        android:id="@+id/ivMichaelangelo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/michaelangelo" />
+
+    <ImageView
+        android:id="@+id/ivSpiderman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/spiderman" />
+
+    <ImageView
+        android:id="@+id/ivStorm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/storm" />
+
+    <ImageView
+        android:id="@+id/ivSubZero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/subzero" />
+
+    <ImageView
+        android:id="@+id/ivSuperman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/superman" />
+
+    <ImageView
+        android:id="@+id/ivTwoFace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/twoface" />
+
+
+</LinearLayout>
