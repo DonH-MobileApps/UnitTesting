@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="radius" format="integer"/>
+        <attr name="fillColor" format="color"/>
+        <attr name="positionX" format="integer"/>
+        <attr name="positionY" format="integer"/>
+
+    </declare-styleable>
+
+</resources>
